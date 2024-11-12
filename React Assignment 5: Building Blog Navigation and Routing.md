@@ -1,4 +1,4 @@
-# Assignment 6: Building Blog Navigation and Routing
+# Assignment 5: Building Blog Navigation and Routing
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
