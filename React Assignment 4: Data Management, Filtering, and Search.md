@@ -1,4 +1,4 @@
-# Assignment 5: Building Advanced Blog Features
+# Assignment 4: Building Advanced Blog Features
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
