@@ -1,4 +1,4 @@
-# Assignment 2: Building Blog Post Components
+# Assignment 1: Building Blog Post Components
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
