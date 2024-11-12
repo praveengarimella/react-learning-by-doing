@@ -1,4 +1,4 @@
-# Assignment 8: Context Management and Theme System
+# Assignment 7: Context Management and Theme System
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
