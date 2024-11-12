@@ -1,4 +1,4 @@
-# Assignment 10: Final Project Integration and Performance Optimization
+# Assignment 9: Final Project Integration and Performance Optimization
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
