@@ -1,4 +1,4 @@
-# Assignment 1: Setting Up Your React Development Environment
+# Assignment 0: Setting Up Your React Development Environment
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
