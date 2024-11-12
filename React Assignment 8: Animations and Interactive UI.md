@@ -1,4 +1,4 @@
-# Assignment 9: Building Animated and Interactive UI Components
+# Assignment 8: Building Animated and Interactive UI Components
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
