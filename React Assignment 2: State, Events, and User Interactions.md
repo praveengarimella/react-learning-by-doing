@@ -1,4 +1,4 @@
-# Assignment 3: Making Your Blog Interactive
+# Assignment 2: Making Your Blog Interactive
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
