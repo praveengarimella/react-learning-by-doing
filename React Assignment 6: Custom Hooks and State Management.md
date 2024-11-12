@@ -1,4 +1,4 @@
-# Assignment 7: Advanced State Management with Custom Hooks
+# Assignment 6: Advanced State Management with Custom Hooks
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
