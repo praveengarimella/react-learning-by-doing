@@ -1,4 +1,4 @@
-# Assignment 4: Building a Blog Post Editor
+# Assignment 3: Building a Blog Post Editor
 
 ## 🎯 Learning Objectives
 By completing this assignment, you will:
