@@ -1,4 +1,4 @@
-# React Router and Navigation: A Comprehensive Guide
+# React Router and Navigation: A Learning Guide
 
 ## 1. Core Concepts
 
